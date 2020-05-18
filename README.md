@@ -5,7 +5,7 @@ Info is a tool gathering email accounts informations (ip,hostname,country,...) f
 ## Installation
 
 ```
-$ git clone https://github.com/Abi4s/Info.git info
+$ git clone https://github.com/Abi4s/Info.git
 $ cd info
 $ python setup.py install
 $ python info.py
